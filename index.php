@@ -2,6 +2,9 @@
 <?php
 echo "hello word";
 
+
+
+?>
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -89,5 +92,3 @@ echo "hello word";
     </div>
 </body>
 </html>
-
-?>
