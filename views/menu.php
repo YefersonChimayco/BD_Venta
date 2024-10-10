@@ -36,7 +36,7 @@
       <a href=" <?php echo BASE_URL ?>perfil" class="me-3"> perfil
         <i class="fas fa-user fa-lg"></i>
       </a>
-      <a href=" <?php echo BASE_URL ?>carrito.php"> carrito
+      <a href=" <?php echo BASE_URL ?>carrito"> carrito
         <i class="fas fa-shopping-cart fa-lg"></i>
       </a>
 
