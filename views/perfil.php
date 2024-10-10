@@ -2,19 +2,19 @@
 <div class="collapse navbar-collapse justify-content-center" id="navbarNav" style="margin-left:200PX ;">
             <ul class="navbar-nav">
               <li class="nav-item">
-                <a class="nav-link " href="tazas.html">Tazas</a>
+                <a class="nav-link " href="tazas.php">Tazas</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="polos.html">Polos</a>
+                <a class="nav-link" href="polos.php">Polos</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link " href="../index.HTML">EGO-MUNDO</a>
+                <a class="nav-link " href="menu.php">EGO-MUNDO</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="gorras.html">Gorras</a>
+                <a class="nav-link" href="gorras.php">Gorras</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link  " href="almohadas.html">Almohadas</a>
+                <a class="nav-link  " href="almohadas.php">Almohadas</a>
               </li>
             </ul>
           </div>
@@ -33,10 +33,10 @@
           </form>
     
           <!-- Íconos de perfil y carrito -->
-          <a href="perfil.html" class="me-3 nav-link active"> perfil
+          <a href="perfil.php" class="me-3 nav-link active"> perfil
             <i class="fas fa-user fa-lg"></i>
           </a>
-          <a href="carrito.html"> carrito
+          <a href="carrito.php"> carrito
             <i class="fas fa-shopping-cart fa-lg"></i>
           </a>
     

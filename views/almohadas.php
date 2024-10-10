@@ -8,7 +8,7 @@
                 <a class="nav-link" href="polos.html">Polos</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link " href="../index.HTML">EGO-MUNDO</a>
+                <a class="nav-link " href="../index.php">EGO-MUNDO</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="gorras.html">Gorras</a>
