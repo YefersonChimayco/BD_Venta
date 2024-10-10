@@ -39,7 +39,7 @@
                     </a>
                 </div>
                 <div class="cajalogin7">
-                    <a href="../index.html"><button class="btn btn-dark btn-outline-danger" type="submit" style="width: 200px;">INICIAR SESIÓN</button></a>
+                    <a href="menu.php"><button class="btn btn-dark btn-outline-danger" type="submit" style="width: 200px;">INICIAR SESIÓN</button></a>
                 </div>
             </div>
         </div>
