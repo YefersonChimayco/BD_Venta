@@ -14,7 +14,7 @@
             <a class="nav-link" href="views/gorras.php">Gorras</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="views/almohadas.html">almohadas</a>
+            <a class="nav-link" href="views/almohadas.php">almohadas</a>
           </li>
         </ul>
       </div>
