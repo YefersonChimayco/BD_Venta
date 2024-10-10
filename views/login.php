@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
-    <link rel="stylesheet" href="<?php echo BASE_URL?>views/plantilla/styles.css">
+    <link rel="stylesheet" href="<?php echo BASE_URL; ?>views/plantilla/styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
 <body>
@@ -19,7 +19,7 @@
             
             <div class="cajadetexto">
                 <div class="cajalogin11">
-                    <a href="perfil.html"><button class="btn btn-outline-danger" type="submit">REGISTRATE</button></a>
+                    <a href="perfil.php"><button class="btn btn-outline-danger" type="submit">REGISTRATE</button></a>
                 </div>
                 <label for="exampleInputEmail1" class="form-label">
                     <i class="fas fa-user"></i> USUARIO
@@ -34,7 +34,7 @@
                     <input class="form-control me-2" type="password" placeholder="Ingresa tu contraseña" aria-label="Search">
                 </div>
                 <div class="cajalogin7">
-                    <a href="login.html" class="text_menu">
+                    <a href="login.php" class="text_menu">
                         <label for="exampleInputEmail1" class="form-label" style="color: black;">¿Olvidaste tu contraseña?</label>
                     </a>
                 </div>
